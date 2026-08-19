@@ -5,4 +5,5 @@ public class UserController {
 
 
 // Logic is finalized.
- 
+
+// Added logging logic here.
